@@ -11,3 +11,5 @@ Sample of the data can be found in the /data folder. The file contains a list of
 You should use this data, assuming that a different file with the same format will be replaced when your entry is being judged, and the program should work without modifications.
 
 Pressing this button should run your code, and the results should be gathered in the <ul> element #selectees
+
+NOTE: This code works on server. To test this code please place it on your local server environment.
