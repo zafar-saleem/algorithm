@@ -12,4 +12,4 @@ You should use this data, assuming that a different file with the same format wi
 
 Pressing this button should run your code, and the results should be gathered in the <ul> element #selectees
 
-NOTE: This code works on server. To test this code please place it on your local server environment.
+NOTE: To test the code please place it on your local server environment.
