@@ -8,6 +8,8 @@ This is where you come in. In order to help your friend get a ticket to Barbados
 Input
 Sample of the data can be found in the /data folder. The file contains a list of strings, where each string contain two integers, i, j separated by a space. The integers represent the employee IDs of the two employees in that team (the first one is from Helsinki and the second one is from New York). Helsinki employees have IDs in the range 1000 to 1999 and New York employees have IDs in the range 2000 to 2999. An employee can be a member of several teams, but there cannot be several teams consisting of the same pair of employees. Your friend has ID 1009.
 
-You should use this data, assuming that a different file with the same format will be replaced when your entry is being judged, and the program should work without modifications. Also, you are to assume that the files will be placed on a static web server. Place the core of your algorithm in /js/algorithm.js.
+You should use this data, assuming that a different file with the same format will be replaced when your entry is being judged, and the program should work without modifications.
 
 Pressing this button should run your code, and the results should be gathered in the <ul> element #selectees
+
+NOTE: To test the code please place it on your local server environment.
